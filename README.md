@@ -1,11 +1,9 @@
 
-Certainly! Here's a sample `README.md` for your project that covers the main aspects:
-
 ---
 
 # Dog Facts App
 
-This is a simple Android application that fetches and displays dog facts using the MVVM (Model-View-ViewModel) pattern, Retrofit for network calls, and Data Binding for UI updates. The app demonstrates good practices in performance, readability, maintainability, testability, scalability, and simplicity.
+This is a simple Android application that fetches and displays dog facts using the MVVM (Model-View-ViewModel) pattern, Retrofit for network calls, and Data Binding for UI updates. The app demonstrates in performance, readability, maintainability, testability, scalability, and simplicity.
 
 ## Features
 
